@@ -1,0 +1,9 @@
+##############################
+## Folders                  ##
+##############################
+V1
+History
+Project Outputs for MainBoard_V2
+LIB/
+!LIB/Pcb库.PcbLib
+!LIB/Sch库.SchLib
