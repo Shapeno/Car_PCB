@@ -2,8 +2,14 @@
 ## Folders                  ##
 ##############################
 V1
+
 History
+__Previews
 Project Outputs for MainBoard_V2
+
 LIB/
 !LIB/Pcb库.PcbLib
 !LIB/Sch库.SchLib
+
+*.Annotation
+*.PrjPcbStructure
